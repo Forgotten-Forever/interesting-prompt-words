@@ -1,8 +1,8 @@
 # 历史 图片 prompt 记录
 
 ### 原图
-![示例图](../example_cat.jpg)
-![示例图](../example_people.png)
+![示例图](../../example_cat.jpg)
+![示例图](../../example_people.png)
 
 ## 1. Q 版手办
 ```text
